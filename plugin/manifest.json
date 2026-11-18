@@ -1,0 +1,9 @@
+{
+  "id": "reminders-panel",
+  "name": "Reminders Panel",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Shows Apple Reminders and Apple Calendar in a sidebar panel, with edits on a Mac and a read-only view on other devices.",
+  "author": "Andrea",
+  "isDesktopOnly": false
+}
